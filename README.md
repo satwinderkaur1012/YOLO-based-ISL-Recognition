@@ -186,10 +186,10 @@ Pre-trained weights are hosted on Zenodo:
 ## Results
 
 ### Precision-Recall Curves
-![PR Curve](results/PR_curve_yolo26s_aug.png)
+![PR Curve](results/BoxPR_curve.png)
 
 ### Confusion Matrix — YOLOv26s(Aug)
-![Confusion Matrix](results/confusion_matrix_yolo26s_aug.png)
+![Confusion Matrix](results/confusion_matrix_normalized.png)
 
 ---
 
