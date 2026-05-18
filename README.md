@@ -44,8 +44,8 @@ Due to participant privacy constraints, the full dataset is available
 upon request.
 
 **To request access:**  
-Email the corresponding author at: joshi.garima5@yahoo.com  
-Subject line: `[ISL Dataset Request] — Your Name, Institution`  
+Email the corresponding author at: satwinderkaur1219@gmail.com  
+Subject line: `[ISL Dataset Request] — Satwinder Kaur, UIET, Panjab University`  
 Requests are reviewed within 14 working days.
 
 A sample of 15 images (one per class) is available in `dataset/sample_images/`.
